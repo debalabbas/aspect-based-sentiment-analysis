@@ -1,0 +1,11 @@
+pytorch-lightning
+dvc
+wandb
+pandas
+jupyterlab
+numpy
+ipykernel
+matplotlib
+plotly
+fastapi
+uvicorn
